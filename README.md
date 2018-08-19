@@ -8,4 +8,4 @@ This is a one day project I did with my cousin, light in a jar with a potentiome
 ## Schematic
 I used this as a schematic:
 
-![img](https://github.com/dumheter/jar_light/blob/master/img/schematic.JPG)
+![img](https://github.com/dumheter/jar_light/blob/master/img/schematics.JPG)
